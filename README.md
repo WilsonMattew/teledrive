@@ -27,7 +27,7 @@ Read here for full instructions: [teledriveapp.com](https://teledriveapp.com)
 Or, just send us an [issue](https://github.com/mgilangjanuar/teledrive/issues) for reporting bugs and/or ask the questions, share your ideas, etc in [discussions](https://github.com/mgilangjanuar/teledrive/discussions).
 
 ## Deploy to Heroku
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?https://github.com/WilsonMattew/teledrive)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/WilsonMattew/teledrive)
 
 If you're experiencing issues check this https://github.com/mgilangjanuar/teledrive/issues/373
 
